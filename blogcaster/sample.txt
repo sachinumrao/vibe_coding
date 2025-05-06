@@ -1,0 +1,7 @@
+By request, this is a FULL MONEY PREORDER. If you really want to buy a spot in line for the v2, I'm not going to say no. This will be a 4x5090 machine, other specs TBD, but others will be the same or better than tinybox green v1. I make no promises when it will ship, we are at the whim of NVIDIA for when we receive the GPUs.
+
+If you buy this, you'll be the absolute first to receive these computers, shipping in order of wires received.
+Price increased 16% due to the impact of tariffs, and if it continues I expect prices will increase again. Lock in at $29,000 now!
+---
+
+The tinybox is a very powerful computer for deep learning, and likely the best performance/$. It was benchmarked in MLPerf Training 4.0 vs computers that cost 10x as much. And of course, anything that can train can do inference.

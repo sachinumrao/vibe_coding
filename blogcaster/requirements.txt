@@ -1,0 +1,6 @@
+streamlit
+fastapi
+uvicorn
+gtts==2.3.2
+pydantic
+requests
